@@ -1,0 +1,6 @@
+default 0
+timeout 3
+
+title NoOS (c) Roman Muentener
+kernel /kernel.bin
+root (fd0)
